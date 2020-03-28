@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\josea\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\josea\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\josea\RiderProjects\NosBlowa" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="UserController.cs" t="Include" />
+      </e>
+      <e p="dbscripts" t="Include">
+        <e p="seed.sql" t="Include" />
+      </e>
+      <e p="docker-compose.yml" t="Include" />
+      <e p="Dockerfile" t="Include" />
+      <e p="Maps" t="Include">
+        <e p="UserMap.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="ApiDbContext.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="NosBlowa.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="NosBlowa.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+    </e>
+  </component>
+</project>
